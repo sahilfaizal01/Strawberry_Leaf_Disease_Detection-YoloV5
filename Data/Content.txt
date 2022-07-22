@@ -1,0 +1,3 @@
+Contains the training and testing data collected from Roboflow
+
+ Link:- https://universe.roboflow.com/devando-bagas/strawberry-disease/dataset/1
