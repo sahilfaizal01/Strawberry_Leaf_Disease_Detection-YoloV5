@@ -1,4 +1,9 @@
 # Strawberry_Leaf_Disease_Detection-YoloV5
+
+Contains the training and testing data collected from Roboflow
+
+Link:- https://universe.roboflow.com/devando-bagas/strawberry-disease/dataset/1
+ 
 An object detection model using PyTorch to detect leaf disease in Strawberry Plants
 
 The model has been trained for 400 epochs and the results for the same are:-
