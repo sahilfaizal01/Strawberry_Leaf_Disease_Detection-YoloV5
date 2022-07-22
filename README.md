@@ -1,6 +1,6 @@
 # Strawberry_Leaf_Disease_Detection-YoloV5
 
-Contains the training and testing data collected from Roboflow
+Both the training and testing data collected from Roboflow Public Repository
 
 Link:- https://universe.roboflow.com/devando-bagas/strawberry-disease/dataset/1
  
